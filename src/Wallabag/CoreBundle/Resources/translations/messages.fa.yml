@@ -257,80 +257,80 @@ howto:
 quickstart:
     page_title: 'Quickstart'
      intro:
-         title: 'به wallabag خوش آمدید!!'
-         paragraph_1: "به شما کمک خواهیم کرد تا wallabag را بشناسید و با برخی از ویژگی‌های جالبش آشنا شوید"
-         paragraph_2: 'ادامه دهید!'
+        title: 'به wallabag خوش آمدید!!'
+        paragraph_1: "به شما کمک خواهیم کرد تا wallabag را بشناسید و با برخی از ویژگی‌های جالبش آشنا شوید"
+        paragraph_2: 'ادامه دهید!'
      configure:
-         title: 'برنامه را تنظیم کنید'
-         language: 'زبان و نمای برنامه را تغییر دهید'
-         rss: 'خوراک آر-اس-اس را فعال کنید'
-         tagging_rules: 'قانون‌های برچسب‌گذاری خودکار مقاله‌هایتان را تعریف کنید'
+        title: 'برنامه را تنظیم کنید'
+        language: 'زبان و نمای برنامه را تغییر دهید'
+        rss: 'خوراک آر-اس-اس را فعال کنید'
+        tagging_rules: 'قانون‌های برچسب‌گذاری خودکار مقاله‌هایتان را تعریف کنید'
      admin:
-         title: 'مدیریت'
-         description: 'به عنوان مدیر، شما دسترسی‌های بیشتری به wallabag دارید. شما می‌توانید:'
-         new_user: 'کاربر تازه‌ای بسازید'
-         analytics: 'تحلیل‌های آماری را تنظیم کنید'
-         sharing: 'گزینه‌های مربوط به هم‌رسانی مقاله‌ها را فعال کنید'
-         export: 'برون‌سپاری را تنظیم کنید'
-         import: 'درون‌ریزی را تنظیم کنید'
+        title: 'مدیریت'
+        description: 'به عنوان مدیر، شما دسترسی‌های بیشتری به wallabag دارید. شما می‌توانید:'
+        new_user: 'کاربر تازه‌ای بسازید'
+        analytics: 'تحلیل‌های آماری را تنظیم کنید'
+        sharing: 'گزینه‌های مربوط به هم‌رسانی مقاله‌ها را فعال کنید'
+        export: 'برون‌سپاری را تنظیم کنید'
+        import: 'درون‌ریزی را تنظیم کنید'
      first_steps:
-         title: 'گام نخست'
-         new_article: 'نخستین مقالهٔ خود را ذخیره کنید'
-         unread_articles: 'و آن را طبقه‌بندی کنید!'
+        title: 'گام نخست'
+        new_article: 'نخستین مقالهٔ خود را ذخیره کنید'
+        unread_articles: 'و آن را طبقه‌بندی کنید!'
      migrate:
-         title: 'از سرویس قبلی خود به این‌جا مهاجرت کنید'
-         description: "آیا سرویس دیگری را به‌کار می‌برید؟ داده‌هایتان را به wallabag بیاورید.."
-         pocket: 'مهاجرت از Pocket'
-         wallabag_v1: 'مهاجرت از نسخهٔ یکم wallabag'
-         wallabag_v2: 'مهاجرت از نسخهٔ دوم wallabag'
+        title: 'از سرویس قبلی خود به این‌جا مهاجرت کنید'
+        description: "آیا سرویس دیگری را به‌کار می‌برید؟ داده‌هایتان را به wallabag بیاورید.."
+        pocket: 'مهاجرت از Pocket'
+        wallabag_v1: 'مهاجرت از نسخهٔ یکم wallabag'
+        wallabag_v2: 'مهاجرت از نسخهٔ دوم wallabag'
      developer:
-         title: 'برنامه‌نویسان'
-         create_application: 'برنامهٔ wallabag خود را بسازید'
+        title: 'برنامه‌نویسان'
+        create_application: 'برنامهٔ wallabag خود را بسازید'
      docs:
-         title: 'راهنمای کامل'
-         annotate: 'روی مقاله‌هایتان یادداشت بگذارید'
-         export: 'مقاله‌هایتان را به قالب ePUB یا PDF دربیاورید'
-         search_filters: 'به کمک موتور جستجو و فیلترها به دنبال مقاله‌هایتان بگردید'
-         fetching_errors: 'اگر مقاله‌ای هنگام ذخیره‌ شدن به مشکل برخورد چه کار کنید؟'
-         all_docs: 'و بسیاری از موضوعات دیگر'
+        title: 'راهنمای کامل'
+        annotate: 'روی مقاله‌هایتان یادداشت بگذارید'
+        export: 'مقاله‌هایتان را به قالب ePUB یا PDF دربیاورید'
+        search_filters: 'به کمک موتور جستجو و فیلترها به دنبال مقاله‌هایتان بگردید'
+        fetching_errors: 'اگر مقاله‌ای هنگام ذخیره‌ شدن به مشکل برخورد چه کار کنید؟'
+        all_docs: 'و بسیاری از موضوعات دیگر'
      support:
-         title: 'پشتیبانی'
-         description: 'به کمک نیاز دارید؟ ما پشتیبان شما هستیم!'
-         github: 'روی گیت‌هاب'
-         email: 'با ایمیل'
-         gitter: 'روی گیتر'
+        title: 'پشتیبانی'
+        description: 'به کمک نیاز دارید؟ ما پشتیبان شما هستیم!'
+        github: 'روی گیت‌هاب'
+        email: 'با ایمیل'
+        gitter: 'روی گیتر'
 
 tag:
     page_title: 'برچسب‌ها'
     list:
-         number_on_the_page: '{0} هیچ برچسبی نیست.|{1} یک برچسب هست.|]1,Inf[ %count% برچسب هست.'
+        number_on_the_page: '{0} هیچ برچسبی نیست.|{1} یک برچسب هست.|]1,Inf[ %count% برچسب هست.'
 
 import:
      page_title: 'درون‌ریزی'
      page_description: 'به درون‌ریز wallabag خوش آمدید. لطفاً سرویس قبلی خود را که می‌خواهید از آن مهاجرت کنید انتخاب کنید.'
      action:
-         import_contents: 'درون‌ریزی مقاله‌ها'
+        import_contents: 'درون‌ریزی مقاله‌ها'
      form:
-         mark_as_read_title: 'علامت‌زدن همه به عنوان خوانده‌شده؟'
-         mark_as_read_label: 'همهٔ مقاله‌های درون‌ریزی شده را به عنوان خوانده‌شده علامت بزن'
-         file_label: 'پرونده'
-         save_label: 'بارگذاری پرونده'
+        mark_as_read_title: 'علامت‌زدن همه به عنوان خوانده‌شده؟'
+        mark_as_read_label: 'همهٔ مقاله‌های درون‌ریزی شده را به عنوان خوانده‌شده علامت بزن'
+        file_label: 'پرونده'
+        save_label: 'بارگذاری پرونده'
      pocket:
-         page_title: 'درون‌ریزی > Pocket'
-         description: "این برنامه همهٔ داده‌های Pocket شما را درون‌ریزی می‌کند. سرویس Pocket اجازه نمی‌دهد که متن مقاله‌ها را درون‌ریزی کنیم، بنابراین wallabag متن مقاله‌ها را دوباره از اینترنت دریافت می‌کند."
-         config_missing:
-             description: "درون‌ریزی از Pocket تنظیم نشده است."
-             admin_message: 'شما باید %keyurls%یک pocket_consumer_key%keyurle% تعریف کنید.'
-             user_message: 'مدیر سرور شما باید یک API Key برای Pocket تعریف کند.'
-         authorize_message: 'شما می‌توانید داده‌هایتان را از حساب Pocket خود درون‌ریزی کنید. روی دکمهٔ زیر کلیک کنید و به برنامه اجازه دهید تا به getpocket.com وصل شود.'
-         connect_to_pocket: 'به Pocket وصل شو و داده‌ها را دریافت کن'
+        page_title: 'درون‌ریزی > Pocket'
+        description: "این برنامه همهٔ داده‌های Pocket شما را درون‌ریزی می‌کند. سرویس Pocket اجازه نمی‌دهد که متن مقاله‌ها را درون‌ریزی کنیم، بنابراین wallabag متن مقاله‌ها را دوباره از اینترنت دریافت می‌کند."
+        config_missing:
+           description: "درون‌ریزی از Pocket تنظیم نشده است."
+           admin_message: 'شما باید %keyurls%یک pocket_consumer_key%keyurle% تعریف کنید.'
+           user_message: 'مدیر سرور شما باید یک API Key برای Pocket تعریف کند.'
+        authorize_message: 'شما می‌توانید داده‌هایتان را از حساب Pocket خود درون‌ریزی کنید. روی دکمهٔ زیر کلیک کنید و به برنامه اجازه دهید تا به getpocket.com وصل شود.'
+        connect_to_pocket: 'به Pocket وصل شو و داده‌ها را دریافت کن'
      wallabag_v1:
-         page_title: 'درون‌ریزی > Wallabag v1'
-         description: 'این برنامه همهٔ داده‌های شما را در نسخهٔ ۱ wallabag درون‌ریزی می‌کند. در صفحهٔ تنظیمات، روی "JSON export" در بخش "Export your wallabag data" کلیک کنید. با این کار شما پرونده‌ای به شکل "wallabag-export-1-xxxx-xx-xx.json" دریافت خواهید کرد.'
-         how_to: 'لطفاً پرونده را انتخاب کنید و روی دکمهٔ زیر کلیک کنید تا بارگذاری و درون‌ریزی شود.'
+        page_title: 'درون‌ریزی > Wallabag v1'
+        description: 'این برنامه همهٔ داده‌های شما را در نسخهٔ ۱ wallabag درون‌ریزی می‌کند. در صفحهٔ تنظیمات، روی "JSON export" در بخش "Export your wallabag data" کلیک کنید. با این کار شما پرونده‌ای به شکل "wallabag-export-1-xxxx-xx-xx.json" دریافت خواهید کرد.'
+        how_to: 'لطفاً پرونده را انتخاب کنید و روی دکمهٔ زیر کلیک کنید تا بارگذاری و درون‌ریزی شود.'
      wallabag_v2:
-         page_title: 'درون‌ریزی > Wallabag v2'
-         description: 'این برنامه همهٔ داده‌های شما را در نسخهٔ ۲ wallabag درون‌ریزی می‌کند. به بخش «همهٔ مقاله‌ها» بروید و در بخش «برون‌ریزی» روی "JSON" کلیک کنید. با این کار شما پرونده‌ای به شکل "All articles.json" دریافت خواهید کرد.'
+        page_title: 'درون‌ریزی > Wallabag v2'
+        description: 'این برنامه همهٔ داده‌های شما را در نسخهٔ ۲ wallabag درون‌ریزی می‌کند. به بخش «همهٔ مقاله‌ها» بروید و در بخش «برون‌ریزی» روی "JSON" کلیک کنید. با این کار شما پرونده‌ای به شکل "All articles.json" دریافت خواهید کرد.'
 
 developer:
     # page_title: 'Developer'
@@ -389,35 +389,35 @@ validator:
 flashes:
     config:
         notice:
-            config_saved: 'پیکربندی ذخیره شد. برخی از تنظیمات پس از این که قطع شدید اعمال می‌شود.'
-            password_updated: 'رمز به‌روز شد'
-            password_not_updated_demo: "در حالت نمایشی نمی‌توانید رمز کاربر را عوض کنید."
-            user_updated: 'اطلاعات به‌روز شد'
-            rss_updated: 'اطلاعات آر-اس-اس به‌روز شد'
-            tagging_rules_updated: 'برچسب‌گذاری خودکار به‌روز شد'
-            tagging_rules_deleted: 'قانون برچسب‌گذاری پاک شد'
-            user_added: 'کابر "%username%" افزوده شد'
-            rss_token_updated: 'کد آر-اس-اس به‌روز شد'
+           config_saved: 'پیکربندی ذخیره شد. برخی از تنظیمات پس از این که قطع شدید اعمال می‌شود.'
+           password_updated: 'رمز به‌روز شد'
+           password_not_updated_demo: "در حالت نمایشی نمی‌توانید رمز کاربر را عوض کنید."
+           user_updated: 'اطلاعات به‌روز شد'
+           rss_updated: 'اطلاعات آر-اس-اس به‌روز شد'
+           tagging_rules_updated: 'برچسب‌گذاری خودکار به‌روز شد'
+           tagging_rules_deleted: 'قانون برچسب‌گذاری پاک شد'
+           user_added: 'کابر "%username%" افزوده شد'
+           rss_token_updated: 'کد آر-اس-اس به‌روز شد'
     entry:
         notice:
-            entry_already_saved: 'این مقاله در تاریخ %date% ذخیره شده بود'
-            entry_saved: 'مقاله ذخیره شد'
-            entry_updated: 'مقاله به‌روز شد'
-            entry_reloaded: 'مقاله به‌روز شد'
-            entry_reload_failed: 'به‌روزرسانی مقاله شکست خورد'
-            entry_archived: 'مقاله بایگانی شد'
-            entry_unarchived: 'مقاله از بایگانی درآمد'
-            entry_starred: 'مقاله برگزیده شد'
-            entry_unstarred: 'مقاله نابرگزیده شد'
-            entry_deleted: 'مقاله پاک شد'
+           entry_already_saved: 'این مقاله در تاریخ %date% ذخیره شده بود'
+           entry_saved: 'مقاله ذخیره شد'
+           entry_updated: 'مقاله به‌روز شد'
+           entry_reloaded: 'مقاله به‌روز شد'
+           entry_reload_failed: 'به‌روزرسانی مقاله شکست خورد'
+           entry_archived: 'مقاله بایگانی شد'
+           entry_unarchived: 'مقاله از بایگانی درآمد'
+           entry_starred: 'مقاله برگزیده شد'
+           entry_unstarred: 'مقاله نابرگزیده شد'
+           entry_deleted: 'مقاله پاک شد'
     tag:
         notice:
-            tag_added: 'برچسب افزوده شد'
+           tag_added: 'برچسب افزوده شد'
     import:
         notice:
-             failed: 'درون‌ریزی شکست خورد. لطفاً دوباره تلاش کنید.'
-             failed_on_file: 'خطا هنگام پردازش پروندهٔ ورودی. آیا پروندهٔ درون‌ریزی شده سالم است؟'
-             summary: 'گزارش درون‌ریزی: %imported% وارد شد, %skipped% از قبل ذخیره شده بود.'
+            failed: 'درون‌ریزی شکست خورد. لطفاً دوباره تلاش کنید.'
+            failed_on_file: 'خطا هنگام پردازش پروندهٔ ورودی. آیا پروندهٔ درون‌ریزی شده سالم است؟'
+            summary: 'گزارش درون‌ریزی: %imported% وارد شد, %skipped% از قبل ذخیره شده بود.'
     developer:
         notice:
             # client_created: 'New client created.'
